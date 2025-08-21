@@ -1,10 +1,10 @@
-# 📊 Salary Prediction App  
+# Salary Prediction App  
 
 This project is a **Streamlit web application** that predicts salary based on **years of experience** using a **Simple Linear Regression model**.  
 
 ---
 
-## 🚀 Features
+## Features
 - User-friendly Streamlit interface  
 - Input field for entering **Years of Experience**  
 - Predicts salary instantly using a pre-trained regression model (`linear_regression_model.pkl`)  
@@ -12,7 +12,7 @@ This project is a **Streamlit web application** that predicts salary based on **
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Python 3**  
 - **Streamlit** (UI)  
 - **Scikit-learn** (Machine Learning model)  
@@ -21,7 +21,7 @@ This project is a **Streamlit web application** that predicts salary based on **
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 .
 ├── app.py                     # Streamlit app code
@@ -32,7 +32,7 @@ This project is a **Streamlit web application** that predicts salary based on **
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 1. **Clone the repository**
    ```bash
